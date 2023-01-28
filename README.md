@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Julio Dalmau</h1>
 <h3 align="center">A passionate Fullstack developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Chakra and Material UI**
+- 🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Technology, music and sports**
 
 - 📫 How to reach me **dalmau.ju@gmail.com**
 
