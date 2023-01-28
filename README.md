@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about **Technology, music and sports**
+- 💬 Ask me about **Technology, music or sports**
 
 - 📫 How to reach me **dalmau.ju@gmail.com**
 
