@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
+- 👨‍💻 All of my projects are available at https://juliodalmau.vercel.app/
+
 - 💬 Ask me about **Technology, music or sports**
 
 - 📫 How to reach me **dalmau.ju@gmail.com**
