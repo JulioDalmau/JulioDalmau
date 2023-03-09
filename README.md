@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julio Dalmau</h1>
 <h3 align="center">A passionate Fullstack developer from Argentina</h3>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at https://juliodalmau.vercel.app/
 
